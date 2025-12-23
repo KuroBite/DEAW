@@ -1,2 +1,2 @@
 # DEAW
-Ejercicios Git 2ºDAW
+Ejercicios Git 2ºDAW por LFP.
